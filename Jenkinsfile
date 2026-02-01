@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Hello') {
       steps {
-        echo ' version 2!'
+        echo 'sion 2!'
      
       }
     }
